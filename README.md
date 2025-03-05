@@ -9,9 +9,9 @@
 
 - 💭 Currently learning about data analytics and [dataviz!](https://pudding.cool/2018/08/pockets/)
 
-- 👨‍💻 All of my Penetration testing are available at [https://zone-h.org/archive/notifier=Mr.L3RB1](https://zone-h.org/archive/notifier=Mr.L3RB1)
+- 👨‍💻 All of my Penetration testing are available at [Zone-H](https://zone-h.org/archive/notifier=Mr.L3RB1)
 
-- 📝 I regularly write articles on [exploit-db.com](exploit-db.com)
+- 📝 I regularly write articles on [Exploit-DB](exploit-db.com)
 
 - 💬 Ask me about **React Native, SQL Injection, RCE**
 
